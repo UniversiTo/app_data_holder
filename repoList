@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<repos>
+    <repo>
+        <ID>0</ID>
+        <name>Universi.to</name>
+        <url>https://raw.githubusercontent.com/UniversiTo/app_data_holder/refs/heads/main/repos/universito_generale/universito_general</url>
+    </repo>
+</repos>
+			
